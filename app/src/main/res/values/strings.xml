@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Agenda2</string>
+    <string name="action_settings">Settings</string>
+    <string name="nome">Nome</string>
+    <string name="telefone">Telefone</string>
+    <string name="email">Email</string>
+    <string name="endereco">Endereço</string>
+    <string name="salvar">Salvar</string>
+    <string name="Salvo_sucesso">Salvo com sucesso!</string>
+    <string name="digite_seu_nome">Digite seu nome:</string>
+    <string name="digite_seu_email">Digite seu email</string>
+    <string name="digite_seu_telefone">Digite seu telefone</string>
+    <string name="nao_foi_possivel_salvar">Não foi possível salvar</string>
+    <string name="salvo_com_sucesso">Salvo com sucesso</string>
+    <string name="ligar">Ligar</string>
+    <string name="enviar_email">Enviar email</string>
+    <string name="apagar">Apagar</string>
+    <string name="deseja_apagar">Deseja apagar?</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+</resources>
